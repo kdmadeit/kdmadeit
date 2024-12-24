@@ -1,0 +1,75 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:rgb(33, 33, 33) ;
+    opacity: 0.3px;
+    margin:0;
+
+   
+}
+
+.header{
+    background-color: rgb(33, 33, 33);
+    text-align:center;
+    color: white;
+    opacity: 13px;
+}
+
+
+  
+ 
+ 
+  .main {
+    background-color: rgba(20, 69, 116, 0.281);
+    color:white;
+  }
+
+  .left {
+    float: left;
+    width: 40%;
+    padding: 25px;
+    text-align: centers;
+   
+  }
+
+  .prog{
+    box-sizing: border-box;
+    text-align: center;
+    border:solid ;
+    border: 15px;
+    
+
+
+  }
+
+ .right{
+  padding: 25px;
+  text-align: center;
+ }
+
+  .prog2{
+
+    box-sizing: border-box;
+    text-align: center;
+    border:solid;
+    border-radius: 15px;
+  }
+  .row{
+
+display: table;
+
+  }
+ 
+
+  .next{
+    background-color: rgba(20, 36, 53, 0.958);
+    font-size: 20px;
+    color: white;
+    text-align:center;
+    
+  }
+
+  .footer{
+    font-size:20px ;
+    color: aliceblue;
+    text-align: center;
+  }

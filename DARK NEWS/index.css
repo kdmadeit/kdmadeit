@@ -1,0 +1,117 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:rgb(33, 33, 33) ;
+    opacity: 0.3px;
+    margin: 0;
+
+   
+}
+
+.topper{
+   
+    box-sizing: border-box;
+    background-color:rgb(27, 29, 30);
+    opacity:0.8;
+    border-width: 100px;
+    border-radius:155px;
+    outline-width:2px;
+    outline-style: solid;
+    outline-color:rgba(71, 102, 109, 0.715);
+   
+}
+
+
+.hello{
+    
+   text-align:center;
+   font-size: 25px;
+   color:white;
+
+}
+
+
+
+.nav{
+text-align:center;
+color:azure;
+box-sizing:border-box;
+padding:1px;
+
+
+}
+
+
+.btl{
+    text-align: center;
+    color: white;
+    
+}
+
+.log{
+    color:rgba(127, 217, 248, 0.877);
+}
+
+.box{
+    color:rgb(177, 177, 230);
+    text-align: center;
+}
+    
+label#username{
+    float:center;
+
+}
+
+input#help{
+    border-radius: 15px;
+    padding: 6px;
+    text-align:center;
+    outline-style: solid;
+    outline-color:lightskyblue;
+    outline-width: 1px;
+}
+  
+ 
+   
+
+
+label#password{
+    float: none;
+}
+
+input#koko{
+   border-radius:15px;
+   padding: 6px;
+    text-align: center;
+    outline-style: solid;
+    outline-color:lightskyblue;
+    outline-width: 1px;
+}
+
+
+input#submitbutton{
+
+    border-radius: 15px;
+    outline-style: solid;
+    outline-color:lightskyblue;
+    outline-width: 1px;
+}
+      
+
+.footer{
+    background-color: rgb(17, 132, 174);
+    padding: 15px;
+    position: relative;
+    left: 0;
+   
+    top:110px;
+
+}
+
+a#about{
+    float:left;
+   
+}
+
+a#more{
+    float:right;
+}

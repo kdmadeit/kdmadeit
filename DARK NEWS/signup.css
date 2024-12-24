@@ -1,0 +1,124 @@
+body{
+    background-color: rgb(33, 33, 33);
+    margin: 0;
+}
+
+.head{
+    color:rgb(175, 225, 206);
+    text-align:center;
+}
+
+.loginpage{
+    background-color: rgba(20, 69, 116, 0.281);
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 30px;
+   
+
+}
+
+.name{
+    color: rgb(238, 233, 179);
+    text-align: center;
+}
+
+input#firstname{
+    text-align:center;
+    color:rgb(29, 27, 27);
+    outline-style:solid;
+    outline-color: rgba(71, 102, 109, 0.715);
+    outline-width: 1;
+    border-radius:10px ;
+}
+
+input#lastname{
+    text-align:center;
+    color:rgb(29, 27, 27);
+    outline-style:solid;
+    outline-color: rgba(71, 10px2, 109, 0.715);
+    outline-width: 1;
+    border-radius:10px;
+
+}
+
+.username{
+    color: rgb(238, 233, 179);
+    text-align: center;
+
+}
+
+input#username{
+    text-align:center;
+    color:rgb(29, 27, 27);
+    outline-style:solid;
+    outline-color: rgba(71, 102, 109, 0.715);
+    outline-width: 1;
+    border-radius:10px;
+    padding: top 5%;
+
+}
+
+.gmail{
+    color: rgb(238, 233, 179);
+    text-align: center;
+
+}
+
+input#gmail{
+    text-align:center;
+    color:rgb(29, 27, 27);
+    outline-style:solid;
+    outline-color: rgba(71, 102, 109, 0.715);
+    outline-width: 1;
+    border-radius:10px;
+    padding-left: 15px;
+    padding-right: 20px;
+}
+
+.password{
+    color: rgb(238, 233, 179);
+    text-align: center;
+
+}
+
+input#password{
+    text-align:center;
+    color:rgb(29, 27, 27);
+    outline-style:solid;
+    outline-color: rgba(71, 102, 109, 0.715);
+    outline-width: 1;
+    border-radius:10px;
+    padding: top 5%;
+
+
+}
+
+.submit{
+   text-align: center;
+
+
+}
+
+input#submit{
+    border-radius: 15px;
+    outline-style:solid;
+    outline-color: rgba(71, 102, 109, 0.715);
+    outline-width: 1;
+}
+
+footer.bottom{
+    background-color: rgb(17, 132, 174);
+    padding: 15px;
+    
+    
+
+}
+
+a#about{
+    float:left;
+
+}
+
+a#more{
+    float:right;
+}
